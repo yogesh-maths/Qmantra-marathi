@@ -47,7 +47,7 @@ fun QuizScreen(viewModel: QuizViewModel) {
 
 
             question?.let {
-                Text(text = it.text)
+                Text(text = it.question)
                 Spacer(modifier = Modifier.height(24.dp))
                 it.options.forEachIndexed { index, option ->
                     Button(
