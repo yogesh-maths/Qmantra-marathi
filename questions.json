@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Mercury", "Copper", "Gold"],
+    "correctIndex": 1,
+    "correctText": "Mercury",
+    "explanation": "Mercury is the only metal liquid at room temperature."
+  },
+  {
+    "id": 2,
+    "question": "What is 9 × 9?",
+    "options": ["72", "81", "90", "99"],
+    "correctIndex": 1,
+    "correctText": "81",
+    "explanation": "9 multiplied by 9 equals 81."
+  }
+]
