@@ -1,8 +1,5 @@
 package com.example.qmantramarathi.data.api
 
-import androidx.compose.ui.input.pointer.PointerId
-import com.example.qmantramarathi.domain.model.Question
-import org.w3c.dom.Text
 
 
 data class QuestionDto(
